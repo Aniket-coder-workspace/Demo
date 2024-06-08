@@ -5,6 +5,7 @@ This is my 1st Repo
 cd is one command in git to "change directory"
 <br>
 Basic things in git 
+<br>
 1. To add anything in our git so 2 step process is there 1st is "Add" and 2nd one is "to Commit"
 <br>
 2. To commit all files in html we write in terminal is that add . 
