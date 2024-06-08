@@ -12,3 +12,8 @@ Basic things in git
 <br>
 3. Push command is used for to push - our (Local repo) to (Remote repo) this done by written in terminal is that (git push origin main)
 <br>
+4. cd (Change dierectory) - use for changing dierectory in git 2 methods 
+<br>
+1st method for entering in folder - cd and folder name
+<br>
+2nd method for exitiing in folder - cd ..
