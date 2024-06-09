@@ -20,3 +20,5 @@ Basic things in git
 <br>
 5. mkdir command - is used for making a dierectory in Git
 <br>
+6. git init command - is used for making a Git Repository
+<br>
