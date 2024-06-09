@@ -17,3 +17,6 @@ Basic things in git
 1st method for entering in folder - cd and folder name
 <br>
 2nd method for exitiing in folder - cd ..
+<br>
+5. mkdir command - is used for making a dierectory in Git
+<br>
